@@ -6,11 +6,12 @@
 ## 使用方法
 * 运行`game2048matlab.m`即可，使用方向键控制
 
-##运行截图
+## 运行截图
+
 ![截图1](https://github.com/mepeichun/Matlab2048/raw/master/screenshot.jpg)
 
 
-##原理
+## 原理
 * 就是画图部分比较麻烦
 * 很久之前写的
 
